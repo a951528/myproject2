@@ -8,6 +8,8 @@ public class Scoring2 {
         Amy.math = 88;
         Amy.english = 88;
 
+        //下次再加入方法來列印出成績
+
 
     }
 
