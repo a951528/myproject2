@@ -10,6 +10,8 @@ public class Scoring2 {
 
         //下次再加入方法來列印出成績
 
+        Amy.print();
+
 
     }
 
